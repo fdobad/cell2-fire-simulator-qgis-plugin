@@ -1,0 +1,1 @@
+# cell2-fire-simulator-qgis-plugin
